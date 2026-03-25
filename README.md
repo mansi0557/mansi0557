@@ -1,6 +1,4 @@
-## Hi there 👋
-
-# Hi 👋 I'm Mansi
+## Hi there 👋 I'm Mansi
 
 🎓 MSc Cyber Security Student  
 ☁️ Aspiring Cloud & AI Security Engineer  
