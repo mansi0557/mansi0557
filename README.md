@@ -1,16 +1,25 @@
 ## Hi there 👋
 
-<!--
-**mansi0557/mansi0557** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi 👋 I'm Mansi
 
-Here are some ideas to get you started:
+🎓 MSc Cyber Security Student  
+☁️ Aspiring Cloud & AI Security Engineer  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔐 Focus Areas
+- Cloud Security (AWS & Azure)
+- Network Defense
+- SIEM & Threat Detection
+- DevSecOps
+
+## 🚀 Current Goals
+- Build real-world cloud labs
+- Earn AWS Security Certification
+- Land a Cloud Security role
+
+## 📂 Portfolio
+Check out my work here:
+👉 https://github.com/mansi0557/cloud-security-portfolio
+
+## 📫 Connect
+- LinkedIn: www.linkedin.com/in/mansi-prajapati-8b5273293
+- 
