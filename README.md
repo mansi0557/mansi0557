@@ -20,4 +20,3 @@ Check out my work here:
 
 ## 📫 Connect
 - LinkedIn: www.linkedin.com/in/mansi-prajapati-8b5273293
-- 
