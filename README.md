@@ -1,29 +1,21 @@
-## Hi there 👋 I'm Mansi
-🎓 MSc Cyber Security Student (UK)
-☁️ Aspiring Cloud Security Engineer
+# Hi, I'm Mansi
 
-## 🔐 Technical Skills
-* Cloud: AWS, Azure
-* Security: IAM, Network Security, Encryption
-* Tools: Splunk, Microsoft Sentinel
-* Networking: Firewalls, TCP/IP
-* Scripting: Python (Basics)
+MSc Cyber Security graduate (De Montfort University, 2026), Leicester, UK.
+Looking for Tier 1 SOC Analyst roles in the UK.
 
-## 🚀 Projects
-### 🔹 AWS S3 Security Lab
-* Identified and fixed public bucket misconfiguration
-* Applied secure access controls and encryption
+## What I've built
+- **SOC home lab:** Wazuh SIEM, Windows 10 with Sysmon, Kali. Detected a simulated brute-force attack (Event ID 4625, MITRE T1110) and triaged a false positive. 
+- **Firewall lab (MSc dissertation):** Cisco firewall configuration and testing in Packet Tracer.
+- **AWS S3 security lab:** fixed a public bucket misconfiguration and applied access controls and encryption.
 
-### 🔹 Firewall Lab (Cisco)
-* Implemented stateful packet inspection
-* Improved traffic filtering efficiency
+## Hands-on
+Wazuh, Sysmon, Windows Event Logs, Kali Linux, VMware, MITRE ATT&CK
 
-## 📜 Certifications (In Progress)
-* AWS Certified Solutions Architect
-* CompTIA Security+
+## Learning
+AWS, Azure, Microsoft Sentinel, Splunk, Python (basics)
 
-## 🎯 Career Goal
-Seeking entry-level Cloud Security / SOC Analyst roles in the UK
+## Certifications in progress
+CompTIA Security+, AWS Solutions Architect
 
-## 📫 Contact
-* LinkedIn: www.linkedin.com/in/mansi-prajapati-8b5273293
+## Contact
+LinkedIn: https://www.linkedin.com/in/mansi-prajapati-8b5273293
