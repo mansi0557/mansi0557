@@ -6,7 +6,6 @@ Looking for Tier 1 SOC Analyst roles in the UK.
 ## What I've built
 - **SOC home lab:** Wazuh SIEM, Windows 10 with Sysmon, Kali. Detected a simulated brute-force attack (Event ID 4625, MITRE T1110) and triaged a false positive. 
 - **Firewall lab (MSc dissertation):** Cisco firewall configuration and testing in Packet Tracer.
-- **AWS S3 security lab:** fixed a public bucket misconfiguration and applied access controls and encryption.
 
 ## Hands-on
 Wazuh, Sysmon, Windows Event Logs, Kali Linux, VMware, MITRE ATT&CK
