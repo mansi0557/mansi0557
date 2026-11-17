@@ -4,7 +4,7 @@ MSc Cyber Security graduate (De Montfort University, 2026), Leicester, UK.
 Looking for Tier 1 SOC Analyst roles in the UK.
 
 ## What I've built
-- **SOC home lab:** Wazuh SIEM, Windows 10 with Sysmon, Kali. Detected a simulated brute-force attack (Event ID 4625, MITRE T1110) and triaged a false positive. 
+- **SOC home lab:** Wazuh SIEM, Windows 10 with Sysmon, Kali. Detected a simulated brute-force attack (Event ID 4625, MITRE T1110) and triaged a false positive. [Read the case study](https://github.com/mansi0557/soc-analyst-portfolio)
 - **Firewall lab (MSc dissertation):** Cisco firewall configuration and testing in Packet Tracer.
 
 ## Hands-on
